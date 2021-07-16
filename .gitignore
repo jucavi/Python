@@ -1,0 +1,6 @@
+/.DS_Store
+/.vscode
+/__pycache__
+/calculator.py
+/fibo.py
+/public_private.py
